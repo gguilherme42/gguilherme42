@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm a developer who likes philosophy.... Someone can think that programming and philosophy are two very different areas and they do not interconnected, but I don't think so. Because, we need to be more than just technicians, we need to communicate clearly, we need to understand the world around us and we need to leave the place better than we found it (?).
-For this, we need perceive and only programmers are not capable(?).
+For this, we need perceive and just only programmers are not capable(?).
 
 <!--
 **gguilherme42/gguilherme42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
