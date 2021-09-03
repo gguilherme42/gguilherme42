@@ -8,8 +8,8 @@ For this, we need perceive and just only programmers are not capable(?).
 
 Here are some ideas to get you started -->
 
-- 🔭 I’m currently working at [GVDASA](https://www.linkedin.com/company/gvdasa/mycompany/) as a frontend developer
-- 🌱 I’m currently learning ReactJS, TypeScript and Git...
+- 🔭 I’m currently working at Capgemini as a backend developer
+- 🌱 I’m currently learning Python, TDD and Shell...
 - 💬 Ask me about whatever you want...
 - 📫 How to reach me: 
 
