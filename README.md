@@ -6,7 +6,7 @@
 Here are some ideas to get you started -->
 
 - 🔭 I’m currently working at Capgemini as a backend developer
-- 🌱 I’m currently learning Python and TDD...
+- 🌱 I’m currently learning about programming..
 - 💬 Ask me about whatever you want...
 - 📫 How to reach me: 
 
