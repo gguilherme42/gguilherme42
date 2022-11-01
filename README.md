@@ -5,8 +5,7 @@
 
 Here are some ideas to get you started -->
 
-- 🔭 I’m currently working at Capgemini as a backend developer
-- 🌱 I’m currently learning about programming..
+- 🌱 I’m currently learning about programming and studyng Philosophy at college..
 - 💬 Ask me about whatever you want...
 - 📫 How to reach me: 
 
