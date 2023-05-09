@@ -11,7 +11,6 @@ Here are some ideas to get you started -->
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-rosa-4b48b5196/)](https://www.linkedin.com/in/guilherme-rosa-4b48b5196/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/gguilherme.r/)](https://www.instagram.com/gguilherme.r/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/gguilherme42)](https://twitter.com/gguilherme42)
 
 <!-- Vertical Spacer -->
 <br>
