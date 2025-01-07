@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started -->
 
-- 🌱 I’m currently studyng Computer Science and Philosophy at college..
+- 🌱 I’m currently studyng Philosophy at college..
 - 💬 Ask me about whatever you want...
 - 📫 How to reach me: 
 
